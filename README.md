@@ -35,4 +35,10 @@ camel.servlet.mapping.context-path
 
 property. the current value provided in this project is /enos/*
 
+#### Added scheduling function in the project.
+
+use @scheduled and @enableScheduling anotation.
+
+The function will run every 7 seconds as per the current working 
+
 
