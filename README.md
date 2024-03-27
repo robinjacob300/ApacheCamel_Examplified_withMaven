@@ -41,4 +41,12 @@ use @scheduled and @enableScheduling anotation.
 
 The function will run every 7 seconds as per the current working 
 
+### Added Actuator to the project
 
+custom actuators endpoints
+
+http://localhost:8081/actuator/actuatorcustomexample
+
+http://localhost:8081/actuator/health
+
+localhost:8081/actuator
